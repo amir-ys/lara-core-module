@@ -1,0 +1,23 @@
+{
+    "name": "amir-ys/core",
+    "description": "",
+    "authors": [
+        {
+            "name": "amir-ys",
+            "email": "amir.you74@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Core\\": ""
+        }
+    }
+}
